@@ -1,5 +1,5 @@
-# [Seu Nome]
-### Product Designer & UI/UX Enthusiast
+# Olá
+### UI/UX Designer & OpS/DSM
 
 > "Design não é apenas o que parece e o que se sente. Design é como funciona." — Steve Jobs
 
@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-Olá! Sou um **UI/UX Designer** baseado em [Sua Cidade], focado em transformar problemas complexos em interfaces simples e acessíveis. Tenho experiência com design de aplicativos móveis, sistemas web e branding.
+Olá! Sou um **UI/UX Designer** morando em Brazil-JP, focado em transformar problemas complexos em interfaces simples e acessíveis. Tenho experiência com design de aplicativos móveis, sistemas web e branding.
 
 * **Foco atual:** Aprimorando habilidades em Design Systems e Acessibilidade (a11y).
 * **Hobbies:** [Fotografia, Jogos, Ilustração, Café].
@@ -28,9 +28,9 @@ Olá! Sou um **UI/UX Designer** baseado em [Sua Cidade], focado em transformar p
 
 Confira meus estudos de caso detalhados e shots visuais:
 
-* 🎨 **Behance:** [behance.net/seunome](https://www.behance.net/)
-* 🏀 **Dribbble:** [dribbble.com/seunome](https://dribbble.com/)
-* 🌐 **Site Pessoal:** [seusite.com](https://seusite.com/)
+* 🎨 **Behance:** [behance.net/myangdae](https://www.behance.net/)
+* 🏀 **Dribbble:** [dribbble.com/myangdae](https://dribbble.com/)
+* 🌐 **Site Pessoal:** [medium/myangdae](https://seusite.com/)
 
 ---
 
